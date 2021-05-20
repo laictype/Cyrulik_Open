@@ -1,8 +1,8 @@
 # Cyrulik Open Typeface
 ## Designed by Maciej Połczyński
 
-Created as a part of [Warsaw Types](https://kroje.org) project. 
-Re-Released by [Laïc:Type](https://laic.pl) under SIL Open Font License [(OFL V. 1.1)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ofl) to be developed (20.05.2021)
+Created as a part of [Warsaw Types](https://kroje.org) project in 2016.
+Re-Released by [Laïc:Type](https://laic.pl) under SIL Open Font License [(OFL V. 1.1)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ofl) to be developed (2021-...)
 
 ### Description
 
