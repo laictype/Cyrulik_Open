@@ -1,9 +1,14 @@
-Warsaw Types presents:
+# Cyrulik Open Typeface
+## Designed by Maciej Połczyński
 
-### Cyrulik
+Created as a part of [Warsaw Types](https://kroje.org) project. 
+Re-Released by [Laïc:Type](https://laic.pl) under SIL Open Font License [(OFL V. 1.1)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ofl) to be developed (20.05.2021)
 
-“Cyrulik” is inspired by technical stencil lettering found on electrical and mechanical devices in Warsaw, and a prewar headline display font “Cyklop” used in a newspaper called “Cyrulik Warszawski”. The font design combines a strong and sturdy form with delicate and modern details, reflecting the contemporary character of Warsaw. Cyrulik comes in 4 distinct styles:
+### Description
 
+Cyrulik is Polish for a barber but also a person that would run small surgeries, pull out teeths and fix broken bones. A folk hair-dresser and medic. Cyrulik was inspired by technical stencil lettering found on electrical and mechanical boxes in Warsaw, a pre-war headline display font “Cyklop” as well as "Cyrylik Warszawski" newspaper used in a newspaper called “Cyrulik Warszawski” (A satirical interwar newspaper run weekly). The typeface combines a strong, technical feeling (Cyrulik Sharp) with a soft, brush like details (Cyrulik Rounded) and finally the independent, street based stencil style (Cyrulik Stencil) – reflecting the contemporary character of Warsaw.
+
+Available styles:
 - Cyrulik Sharp
 - Cyrulik Sharp Bold
 - Cyrulik Rounded
@@ -14,23 +19,7 @@ Warsaw Types presents:
 ### Licence
 
 [SIL Open Font ](http://scripts.sil.org/OFL_web)
-
 Copyright ©  2016 Stowarzyszenie Kulturotwórcze Miastodwa
-
-
-
-### About the Author
-
-**Maciej Połczyński**
-
-Graduated from the Art of New Media Dept. on Polish-Japanese Institute of Information Technology. Specializes in type design, branding and animation. Scholar of the Type Directors Club.
-
-Portfolio:
-
-[Personal Website](http://maciej.polczynski.com)
-
-
-
 
 ### About Warsaw Types
 
@@ -74,8 +63,6 @@ Partners:
 [The City of Warsaw](http://www.um.warszawa.pl/), [Muzeum Warszawy](http://muzeumwarszawy.pl/), [Warexpo](http://www.warexpo.pl/), [Transparent Shopping Collective](http://transparentshopping.com/)
 
  ![logo-strips-02](images/logos-02.png)
-
-
 
 ------
 
